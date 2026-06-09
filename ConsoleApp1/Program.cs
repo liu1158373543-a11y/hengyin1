@@ -11,5 +11,5 @@ Console.WriteLine("Hello, World!");
 void lizhi()
 {
     Console.WriteLine("Hello, World!");
-
+    Console.WriteLine("你好!");
 }
