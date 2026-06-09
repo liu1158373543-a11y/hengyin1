@@ -14,4 +14,6 @@ Console.WriteLine("Hello, World!");
 }
 void lizhi()
 {
+    Console.WriteLine("Hello, World!");
+
 }
