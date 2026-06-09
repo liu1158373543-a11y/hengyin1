@@ -6,7 +6,8 @@ Console.WriteLine("Hello, World!");
 
  void liukehao()
  {
-
+    Console.WriteLine("Hello, World!");
+    Console.WriteLine("Hello, World!");
 }
 void lizhi()
 {
