@@ -16,4 +16,5 @@ void lizhi()
 {
     Console.WriteLine("Hello, World!");
     Console.WriteLine("你好!");
+    Console.WriteLine("xinchao!");
 }
