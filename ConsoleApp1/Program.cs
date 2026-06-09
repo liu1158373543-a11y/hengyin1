@@ -2,3 +2,13 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
+
+
+ void liukehao()
+ {
+
+}
+void lizhi()
+{
+
+}
